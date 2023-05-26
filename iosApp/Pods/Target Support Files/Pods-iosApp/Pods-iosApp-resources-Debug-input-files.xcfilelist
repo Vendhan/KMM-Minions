@@ -1,0 +1,18 @@
+${PODS_ROOT}/Target Support Files/Pods-iosApp/Pods-iosApp-resources.sh
+${PODS_ROOT}/../../common/src/commonMain/resources/minions.json
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_bob.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_carl.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_darwin.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_dave.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_donny.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_jerry.jpg
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_john.jpeg
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_jorge.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_ken.jpeg
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_kevin.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_lance.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_larry.jpeg
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_mark.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_phil.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_stuart.webp
+${PODS_ROOT}/../../common/src/commonMain/resources/minion_tim.jpeg
